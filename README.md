@@ -1,7 +1,7 @@
 # Web-Storage-Service 구동 방법
 
 1. apache-tomcat-9.0.0.M3_20160328, mysql-5.7.13를 각각 Windows 버전으로 설치한다.
-2. mysql 폴더 내에 레퍼지토리의 data.zip의 압축을 푼다.
+2. 설치한 mysql 폴더 내에 레퍼지토리의 data.zip의 압축을 푼다.
 3. 소스를 다운받은 뒤 압축을 푼다.
 4. 웹 페이지 소스를 gradle로 빌드한다.
 (html 경로에서 명령 창을 연 뒤 gradle-2.13\bin\gradle build 명령으로 빌드할 수 있다.)
